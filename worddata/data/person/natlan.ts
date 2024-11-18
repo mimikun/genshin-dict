@@ -14,6 +14,7 @@ export default {
     { hiragana: 'いあんさ', word: 'イアンサ' },
     { hiragana: 'ちゃすか', word: 'チャスカ' },
     { hiragana: 'まーゔぃか', word: 'マーヴィカ' },
+    { hiragana: 'はぼりむ', word: 'ハボリム' },
     { hiragana: 'おろるん', word: 'オロルン' },
     { hiragana: 'いふぁ', word: 'イファ' },
 
@@ -26,18 +27,34 @@ export default {
 
     // 主に歴史・文献に登場
     { hiragana: 'しゅばらんけ', word: 'シュバランケ' },
-    { hiragana: 'わしゃくらふんうばかん', word: 'ワシャクラフン・ウバ・カン' },
-    { hiragana: 'わしゃくらふん・うば・かん', word: 'ワシャクラフン・ウバ・カン' },
+    {
+      hiragana: 'わしゃくらふんうばかん',
+      word: 'ワシャクラフン・ウバ・カン',
+    },
+    {
+      hiragana: 'わしゃくらふん・うば・かん',
+      word: 'ワシャクラフン・ウバ・カン',
+    },
     { hiragana: 'とうえんのけんじゃ', word: '盗炎の賢者' },
     { hiragana: 'ちゃあく', word: 'チャアク' },
     { hiragana: 'おちかん', word: 'オチカン' },
     { hiragana: 'てのっち', word: 'テノッチ' },
     { hiragana: 'とぅぱっく', word: 'トゥパック' },
+    { hiragana: 'すんじゃた', word: 'スンジャタ' },
+    { hiragana: 'ゆぱんき', word: 'ユパンキ' },
+    { hiragana: 'ぶるきな', word: 'ブルキナ' },
+    { hiragana: 'わんじる', word: 'ワンジル' },
+    { hiragana: 'めねりく', word: 'メネリク' },
+    { hiragana: 'さんはじ', word: 'サンハジ' },
 
     // 古名
     { hiragana: 'うっさびーてぃ', word: 'ウッサビーティ' },
     { hiragana: 'うもじゃ', word: 'ウモジャ' },
     { hiragana: 'まりぽ', word: 'マリポ' },
-
-  ]
+    { hiragana: 'きおんごずぃ', word: 'キオンゴズィ' },
+    { hiragana: 'びでぃー', word: 'ビディー' },
+    { hiragana: 'うんどぅぐ', word: 'ウンドゥグ' },
+    { hiragana: 'ばれか', word: 'バレカ' },
+    { hiragana: 'ゔーか', word: 'ヴーカ' },
+  ],
 } as DictBase;

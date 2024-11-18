@@ -730,6 +730,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ヴーカ</string>
+  <key>shortcut</key>
+  <string>ゔーか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヴーカ</string>
+  <key>shortcut</key>
+  <string>ヴーか</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ウーシア</string>
   <key>shortcut</key>
   <string>うーしあ</string>
@@ -847,6 +859,12 @@
   <string>雲菫</string>
   <key>shortcut</key>
   <string>うんきん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ウンドゥグ</string>
+  <key>shortcut</key>
+  <string>うんどぅぐ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1555,6 +1573,12 @@
   <string>キィニチ</string>
   <key>shortcut</key>
   <string>きぃにち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>キオンゴズィ</string>
+  <key>shortcut</key>
+  <string>きおんごずぃ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2746,6 +2770,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>サンハジ</string>
+  <key>shortcut</key>
+  <string>さんはじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>散兵</string>
   <key>shortcut</key>
   <string>ざんひょう</string>
@@ -3517,6 +3547,12 @@
   <string>スルトロッチ</string>
   <key>shortcut</key>
   <string>するとろっち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>スンジャタ</string>
+  <key>shortcut</key>
+  <string>すんじゃた</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5056,6 +5092,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ハボリム</string>
+  <key>shortcut</key>
+  <string>はぼりむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>パルジファル</string>
   <key>shortcut</key>
   <string>ぱるじふぁる</string>
@@ -5089,6 +5131,12 @@
   <string>パレ・メルモニア</string>
   <key>shortcut</key>
   <string>ぱれ・めるもにあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>バレカ</string>
+  <key>shortcut</key>
+  <string>ばれか</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5209,6 +5257,12 @@
   <string>避譲の丘</string>
   <key>shortcut</key>
   <string>ひじょうのおか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ビディー</string>
+  <key>shortcut</key>
+  <string>びでぃー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5527,6 +5581,12 @@
   <string>プリュイロータス</string>
   <key>shortcut</key>
   <string>ぷりゅいろーたす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ブルキナ</string>
+  <key>shortcut</key>
+  <string>ぶるきな</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -6274,6 +6334,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>メネリク</string>
+  <key>shortcut</key>
+  <string>めねりく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>メラック</string>
   <key>shortcut</key>
   <string>めらっく</string>
@@ -6499,6 +6565,12 @@
   <string>諭示裁定カーディナル</string>
   <key>shortcut</key>
   <string>ゆしさいていかーでぃなる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ユパンキ</string>
+  <key>shortcut</key>
+  <string>ゆぱんき</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -7099,6 +7171,12 @@
   <string>ワルカ</string>
   <key>shortcut</key>
   <string>わるか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ワンジル</string>
+  <key>shortcut</key>
+  <string>わんじる</string>
 </dict>
 </array>
 </plist>
